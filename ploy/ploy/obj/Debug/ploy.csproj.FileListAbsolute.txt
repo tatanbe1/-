@@ -1,0 +1,11 @@
+C:\Users\Windows 10\source\repos\ploy\ploy\bin\Debug\ploy.exe.config
+C:\Users\Windows 10\source\repos\ploy\ploy\bin\Debug\ploy.exe
+C:\Users\Windows 10\source\repos\ploy\ploy\bin\Debug\ploy.pdb
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.Form1.resources
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.Form2.resources
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.exe
+C:\Users\Windows 10\source\repos\ploy\ploy\obj\Debug\ploy.pdb
